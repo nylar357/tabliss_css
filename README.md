@@ -29,7 +29,7 @@ Here's a glimpse of what some of the themes can look like:
                                                                                                                                              
 **Video Demo:**                                                                                                                              
                                                                                     
-![preview](img/'Screencast From 2025-04-11 15-13-20.webm')                                                                                      
+![Video of Example Theme](img/Screencast From 2025-04-11 15-13-20.webm)                                                                                      
                                                                                                                       
                                                                                                                                              
 **Screenshots:**                                                                                                                                                                                                                     
@@ -38,7 +38,7 @@ Here's a glimpse of what some of the themes can look like:
 ![Screenshot of Example Theme 1](img/tabliss1.png)                                                                               
                                                                                
                                                                                                                                              
-![Screenshot of Example Theme 2](tabliss2.png)                                                                                  
+![Screenshot of Example Theme 2](img/tabliss2.png)                                                                                  
                                                                               
                                                                                                                                              
 ## Included Themes                                                                                                                           

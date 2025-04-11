@@ -29,7 +29,7 @@ Here's a glimpse of what some of the themes can look like:
                                                                                                                                              
 **Video Demo:**                                                                                                                              
                                                                                     
-![Video of Example Theme](img/Screencast From 2025-04-11 15-13-20.webm)                                                                                      
+![Video of Example Theme](img/tabliss.webm)                                                                               
                                                                                                                       
                                                                                                                                              
 **Screenshots:**                                                                                                                                                                                                                     

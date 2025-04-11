@@ -29,7 +29,7 @@ Here's a glimpse of what some of the themes can look like:
                                                                                                                                              
 **Video Demo:**                                                                                                                              
                                                                                     
-![Video of Example Theme](https://youtu.be/eWQwKlY42aE)                                                                               
+![Video of Example Theme](https://www.youtube.com/watch?v=eWQwKlY42aE)                                                                               
                                                                                                                       
                                                                                                                                              
 **Screenshots:**                                                                                                                                                                                                                     

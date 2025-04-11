@@ -1,0 +1,83 @@
+.Widgets .container {
+  width: 100%;
+  text-align: center;
+}
+
+.Widgets .container .Time {
+  margin: 1rem 0;
+  font-size: 32pt; 
+}
+
+.Quote { 
+  font-size: 16pt;
+  padding: 3rem;
+  text-align: center;
+}
+
+.Links a {
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+.Links a:hover {
+  color: lightgreen;
+}
+
+.Unsplash .image {
+  filter: blur(3px); 
+  transform: scale(1.1);
+}
+
+.details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+dl {
+  display: flex;
+  text-align: center;
+  padding-left: 35px;
+}
+
+dd {
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.Search input {
+  width: 300px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  padding-left: 20px;
+  font-size: 14pt;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 0);
+  }
+  
+.Search input::placeholder {
+  color: #bbbbbb;
+  opacity: 0.54;
+}
+  
+.Search input:focus {
+  border: solid 1px white;
+  box-shadow: 0 0 0 1px white;
+  background-color: transparent;
+  }
+
+.Overlay, .credit {
+  opacity: 0.75;
+  color: grey;
+  font-family: inherit;
+}
+
+.credit:hover {
+  opacity: 1.0;
+}
+
+.Overlay:hover {
+  opacity: 1.0;
+}

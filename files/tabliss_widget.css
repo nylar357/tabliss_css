@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+  margin-top: 1em; /* Space below search bar */
+}
+
+/* Style the container for the right-side links */
+#widget-links-right-panel {
+  background-color: rgba(255, 255, 255, 0.15); /* Transparent white background */
+  border-radius: 30px; /* Rounded ends for the long box */
+  padding: 20px 15px; /* Padding inside the box */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
+}
+
+/* Style individual link buttons */
+#widget-links-right-panel .button {
+  margin-bottom: 12px !important; /* Space between buttons */
+  border-radius: 15px !important; /* Slightly rounded buttons */
+  border: none !important;
+  color: #333 !important; /* Darker text for contrast on pastels */
+  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+#widget-links-right-panel .button:last-child {
+  margin-bottom: 0 !important; /* No margin below the last button */
+}
+
+#widget-links-right-panel .button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* Assign bright pastel backgrounds to link buttons */
+#widget-links-right-panel .button:nth-child(1) {
+  background-color: #A7E6FF !important; /* Pastel Blue */
+}
+
+#widget-links-right-panel .button:nth-child(2) {
+  background-color: #FFDAB9 !important; /* Peach Puff */
+}
+
+#widget-links-right-panel .button:nth-child(3) {
+  background-color: #FFFACD !important; /* Lemon Chiffon */
+}
+
+#widget-links-right-panel .button:nth-child(4) {
+  background-color: #98FB98 !important; /* Pale Green */
+}
+
+#widget-links-right-panel .button:nth-child(5) {
+  background-color: #FFB6C1 !important; /* Light Pink */
+}
+}

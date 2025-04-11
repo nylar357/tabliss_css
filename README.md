@@ -29,7 +29,7 @@ Here's a glimpse of what some of the themes can look like:
                                                                                                                                              
 **Video Demo:**                                                                                                                              
                                                                                     
-![Video of Example Theme](https://youtu.be/eWQwKlY42aE?si=yO7vVIePmGszKoov)                                                                               
+[![Watch the video](img/tabliss3.png)](https://youtu.be/eWQwKlY42aE?si=WKsCAQFMbQxJ6cyo)                                                                            
                                                                                                                       
                                                                                                                                              
 **Screenshots:**                                                                                                                                                                                                                     

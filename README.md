@@ -29,7 +29,7 @@ Here's a glimpse of what some of the themes can look like:
                                                                                                                                              
 **Video Demo:**                                                                                                                              
                                                                                     
-![Video Walkthrough of Themes](img/'Screencast From 2025-04-11 15-13-20.webm')                                                                                      
+![preview](img/'Screencast From 2025-04-11 15-13-20.webm')                                                                                      
                                                                                                                       
                                                                                                                                              
 **Screenshots:**                                                                                                                                                                                                                     

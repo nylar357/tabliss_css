@@ -11,6 +11,12 @@ Tabliss is a beautiful, highly customizable new tab page replacement for web bro
 This repository contains various `.css` files, each offering a different visual style or modification for your Tabliss new tab page. You can use them to change colors, fonts, widget layouts, add animations, or make other visual tweaks beyond the standard Tabliss settings.
                                                                                                                                                                                                                                      
 ## How to Use                                                                                                                                                                          
+
+Using the complete tabliss.json style :
+
+1. **Download the tabliss.json** Open your Tabliss new tab, click settings in the top left corner.
+
+2. **Import the style sheet** Scroll to the bottom of the settings find the "import, export, or reset" and import the tabliss.json file.
                                                                                                                                                                                        
 Using these custom styles is straightforward:                                                                                                                                          
                                                                                                                                                                                        
@@ -22,7 +28,16 @@ Using these custom styles is straightforward:
 6.  **Apply:** The changes should apply immediately. Close the settings panel.                                                                                                         
                                                                                                                                                                                        
 **To remove a custom style**, simply delete the code from the `Custom CSS` box in the Tabliss settings.                                                                                
-                                                                                                                                                                                       
+## Included Themes                                                                                                                           
+                                                                                                                                             
+*(Optional: You can list the specific themes/files here)*                                                                                    
+                                                                                                                                             
+*   Browse the different `.css` files in the repository to see the available styles. Each file might contain comments explaining its purpose.
+                                                                                                                                             
+## Contributing                                                                                                                              
+                                                                                                                                             
+Feel free to suggest improvements, report issues, or contribute your own themes via Pull Requests!                                           
+
 ## Previews                                                                                                                                                                            
                                                                                                                                                                                        
 Here's a glimpse of what some of the themes can look like:                                                                                   
@@ -38,18 +53,7 @@ Here's a glimpse of what some of the themes can look like:
 ![Screenshot of Example Theme 1](img/tabliss1.png)                                                                               
                                                                                
                                                                                                                                              
-![Screenshot of Example Theme 2](img/tabliss2.png)                                                                                  
-                                                                              
-                                                                                                                                             
-## Included Themes                                                                                                                           
-                                                                                                                                             
-*(Optional: You can list the specific themes/files here)*                                                                                    
-                                                                                                                                             
-*   Browse the different `.css` files in the repository to see the available styles. Each file might contain comments explaining its purpose.
-                                                                                                                                             
-## Contributing                                                                                                                              
-                                                                                                                                             
-Feel free to suggest improvements, report issues, or contribute your own themes via Pull Requests!                                           
+![Screenshot of Example Theme 2](img/tabliss2.png)                                              
 
 ## License                                                                                                                                                                                                                           
 

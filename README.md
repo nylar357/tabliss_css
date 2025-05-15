@@ -69,6 +69,5 @@ Here's a glimpse of what some of the themes can look like:
 Feel free to suggest improvements, report issues, or contribute your own themes via Pull Requests!                                                                                                                                                                           
 
 ## License                                                                                                                                                                                                                           
-
-*(Optional: Add license information here, e.g., MIT License)*               
+             
 This project is licensed under the MIT License - see the LICENSE.md file for details.                                                            

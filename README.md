@@ -9,6 +9,8 @@ Tabliss is a beautiful, highly customizable new tab page replacement for web bro
 ## What Are These Files?                                                                                                                                                               
                                                                                                                                                                                        
 This repository contains various `.css` files, each offering a different visual style or modification for your Tabliss new tab page. You can use them to change colors, fonts, widget layouts, add animations, or make other visual tweaks beyond the standard Tabliss settings.
+
+The files section contains 2 complete themes, tabliss_theme1 & tabliss_theme2 these can be imported whole without any other muss and fuss!  The other files contain smaller css sections with specific functionalities, these are installed by a simple copy and paste into the custom css widget in the tabliss settings section.
                                                                                                                                                                                                                                      
 ## How to Use                                                                                                                                                                          
 

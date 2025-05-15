@@ -16,7 +16,7 @@ Using the complete tabliss.json style :
 
 1. **Download the tabliss.json** Open your Tabliss new tab, click settings in the top left corner.
 
-2. **Import the style sheet** Scroll to the bottom of the settings find the "import, export, or reset" and import the tabliss.json file **must be renamed to `tabliss.json`.
+2. **Import the style sheet** Scroll to the bottom of the settings find the "import, export, or reset" and import the tabliss.json file **must be renamed to `tabliss.json`**.
                                                                                                                                                                                        
 Using these custom styles is straightforward:                                                                                                                                          
                                                                                                                                                                                        

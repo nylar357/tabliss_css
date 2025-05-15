@@ -16,12 +16,12 @@ Using the complete tabliss.json style :
 
 1. **Download the tabliss.json** Open your Tabliss new tab, click settings in the top left corner.
 
-2. **Import the style sheet** Scroll to the bottom of the settings find the "import, export, or reset" and import the tabliss.json file.
+2. **Import the style sheet** Scroll to the bottom of the settings find the "import, export, or reset" and import the tabliss.json file **must be renamed to `tabliss.json`.
                                                                                                                                                                                        
 Using these custom styles is straightforward:                                                                                                                                          
                                                                                                                                                                                        
 1.  **Choose a Style:** Browse the `.css` files in this repository -> files section and decide which one you want to try.                                                                               
-2.  **Copy the CSS:** or **Download your choice, rename to `tabliss.json` and import in the settings section of Tabliss all the way at the bottom. Or Open the desired `.css` file and copy its entire content.                                                                                                        
+2.  **Copy the CSS:** or **Download your choice, open the desired `.css` file and copy its entire content.                                                                                                        
 3.  **Open Tabliss Settings:** Open a new browser tab (which should load Tabliss) and click the Settings icon (usually a gear ⚙️  located in one of the corners).                      
 4.  **Navigate to Custom CSS:** Scroll down within the Tabliss settings panel until you find the **Advanced** section.                                                                 
 5.  **Paste the Code:** Paste the CSS code you copied in step 2 into the text box labeled `Custom CSS`.                                                                                

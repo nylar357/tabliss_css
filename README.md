@@ -18,7 +18,7 @@ Using the complete tabliss.json style :
 
 2. **Import the style sheet** Scroll to the bottom of the settings find the "import, export, or reset" and import the tabliss.json file **must be renamed to `tabliss.json`**.
                                                                                                                                                                                        
-Using these custom styles is straightforward:                                                                                                                                          
+Using specific sections of custom styles (shading only css for example) is straightforward:                                                                                                                                          
                                                                                                                                                                                        
 1.  **Choose a Style:** Browse the `.css` files in this repository -> files section and decide which one you want to try.                                                                               
 2.  **Copy the CSS:** or **Download your choice, open the desired `.css` file and copy its entire content.                                                                                                        

@@ -31,14 +31,7 @@ Using specific sections of custom styles (shading only css for example) is strai
                                                                                                                                                                                        
 **To remove a custom style**, simply delete the code from the `Custom CSS` box in the Tabliss settings.                                                                                
 ## Included Themes                                                                                                                           
-                                                                                                                                             
-*(Optional: You can list the specific themes/files here)*                                                                                    
-                                                                                                                                             
-*   Browse the different `.css` files in the repository to see the available styles. Each file might contain comments explaining its purpose.
-                                                                                                                                             
-## Contributing                                                                                                                              
-                                                                                                                                             
-Feel free to suggest improvements, report issues, or contribute your own themes via Pull Requests!                                           
+                                          
 
 ## Previews                                                                                                                                                                            
                                                                                                                                                                                        
@@ -69,7 +62,11 @@ Here's a glimpse of what some of the themes can look like:
                                                                                      
 ![Screenshot of Example Theme 2](img/tabliss_new_css.png)                                                                               
                                                                                
-                                                                                                                                                                          
+                                                                                                                                
+                                                                                                                                             
+## Contributing                                                                                                                              
+                                                                                                                                             
+Feel free to suggest improvements, report issues, or contribute your own themes via Pull Requests!                                                                                                                                                                           
 
 ## License                                                                                                                                                                                                                           
 

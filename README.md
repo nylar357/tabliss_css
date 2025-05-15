@@ -48,7 +48,7 @@ Here's a glimpse of what some of the themes can look like:
 
 **Video Demo Theme 2:**                                                                                                                              
                                                                                     
-[![Watch the video](img/tabliss3.png)](https://youtu.be/eWQwKlY42aE?si=WKsCAQFMbQxJ6cyo) 
+[![Watch the video](img/tabliss_new_css.png)](https://www.youtube.com/watch?v=TpQ6vBOAI1w) 
                                                                                                                       
                                                                                                                                              
 **Screenshots Theme 1:**                                                                                                                                                                                                                     
@@ -57,16 +57,17 @@ Here's a glimpse of what some of the themes can look like:
 ![Screenshot of Example Theme 1](img/tabliss1.png)                                                                               
                                                                                
                                                                                                                                              
-![Screenshot of Example Theme 2](img/tabliss2.png)                                              
+![Screenshot of Example Theme 1#2](img/tabliss2.png)                                              
+
+
 
 
 **Screenshots Theme 2:**                                                                                                                                                                                                                     
                                                                                                                                              
                                                                                      
-![Screenshot of Example Theme 1](img/tabliss1.png)                                                                               
+![Screenshot of Example Theme 2](img/tabliss_new_css.png)                                                                               
                                                                                
-                                                                                                                                             
-![Screenshot of Example Theme 2](img/tabliss2.png)                                              
+                                                                                                                                                                          
 
 ## License                                                                                                                                                                                                                           
 

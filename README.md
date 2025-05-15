@@ -42,12 +42,25 @@ Feel free to suggest improvements, report issues, or contribute your own themes 
                                                                                                                                                                                        
 Here's a glimpse of what some of the themes can look like:                                                                                   
                                                                                                                                              
-**Video Demo:**                                                                                                                              
+**Video Demo Theme 1:**                                                                                                                              
                                                                                     
-[![Watch the video](img/tabliss3.png)](https://youtu.be/eWQwKlY42aE?si=WKsCAQFMbQxJ6cyo)                                                                            
+[![Watch the video](img/tabliss3.png)](https://youtu.be/eWQwKlY42aE?si=WKsCAQFMbQxJ6cyo)
+
+**Video Demo Theme 2:**                                                                                                                              
+                                                                                    
+[![Watch the video](img/tabliss3.png)](https://youtu.be/eWQwKlY42aE?si=WKsCAQFMbQxJ6cyo) 
                                                                                                                       
                                                                                                                                              
-**Screenshots:**                                                                                                                                                                                                                     
+**Screenshots Theme 1:**                                                                                                                                                                                                                     
+                                                                                                                                             
+                                                                                     
+![Screenshot of Example Theme 1](img/tabliss1.png)                                                                               
+                                                                               
+                                                                                                                                             
+![Screenshot of Example Theme 2](img/tabliss2.png)                                              
+
+
+**Screenshots Theme 2:**                                                                                                                                                                                                                     
                                                                                                                                              
                                                                                      
 ![Screenshot of Example Theme 1](img/tabliss1.png)                                                                               
